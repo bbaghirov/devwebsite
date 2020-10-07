@@ -1,0 +1,41 @@
+@import url(<link href="https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300&display=swap" rel="stylesheet">)
+body {
+    background-color: coral;
+    background-color: url("images1.png");
+}
+h1 {color: blueviolet;
+font-size: 60px;
+text-align: center;
+}
+h2 {color: blueviolet;
+    font-size: 40px;
+    text-align: center;
+    }
+h3 {color: black;
+        font-size: 30px;
+        text-align: center;
+        }
+*{
+    background-color: rgb(133, 146, 133);
+    font-size: 20px;
+}
+
+/* *{
+    background-color: value;
+    font-size: value
+/* } */ */
+.fontColor{
+    color: lime;
+}
+#mainHeader{
+    font-size: 50px;
+    color: blue;
+    font-family: 'Roboto', sans-serif;
+}
+#mainimg{
+    box-sizing: border-box;
+    padding:30px 50px 75 px 100px;
+    width: 12%;
+    border: solid 3px black;
+    padding: 10px;
+}
